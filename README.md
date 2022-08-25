@@ -18,12 +18,9 @@ This dataset contains information on default payments, demographic factors, cred
 
 # Technical Aspect
 This project is divided into two part:
-
-<ul>Training a RandomForestClassifier classification model to predict defaulter as accurate as possible.</ul>
-Cleaning the datasets, fixing all features
-Apply Classification ML model
-<ul>Building and hosting a Flask web app on spyder.</ul>
-Build the web app using Flask API
-Upload the project on GitHub
-Get the customer information from Web app
-Display the prediction
+<li>Training a <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html" rel="nofollow">RandomForestClassifier</a> classification model to predict defaulter as accurate as possible.
+<ul dir="auto">
+<li>Cleaning the datasets, fixing all features</li>
+<li>Apply Classification ML model</li>
+</ul>
+</li>
