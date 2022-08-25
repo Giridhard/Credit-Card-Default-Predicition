@@ -18,9 +18,19 @@ This dataset contains information on default payments, demographic factors, cred
 
 # Technical Aspect
 This project is divided into two part:
+<ol dir="auto">
 <li>Training a <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html" rel="nofollow">RandomForestClassifier</a> classification model to predict defaulter as accurate as possible.
 <ul dir="auto">
 <li>Cleaning the datasets, fixing all features</li>
 <li>Apply Classification ML model</li>
 </ul>
 </li>
+<li>Building and hosting a Flask web app on Heroku.
+<ul dir="auto">
+<li>Build the web app using Flask API</li>
+<li>Upload the project on GitHub</li>
+<li>Get the customer information from Web app</li>
+<li>Display the prediction</li>
+</ul>
+</li>
+</ol>
